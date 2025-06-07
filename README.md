@@ -1,2 +1,2 @@
-# hyroxworld-landing
+# hyroxworld.com.br
 hyroxworld.com.br
